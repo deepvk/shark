@@ -2,7 +2,7 @@
 
 This repo contains pretrained models:
 
-**keras CNN model in ```models/cnn_model```***
+***keras CNN model in ```models/cnn_model```***
 
 See ```toxic_test.ipynb``` for usage.
 
