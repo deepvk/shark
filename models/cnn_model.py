@@ -15,7 +15,7 @@ class ToxicDetector(object):
     Trained on the dataset from:
     https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
     for educational purposes
-    The model is intentionally simple so we can import it with tf-js
+    The model is intentionally simple so we can then export it to tf-js
     """
 
     MAX_LEN = 100
