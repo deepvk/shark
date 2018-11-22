@@ -8,7 +8,7 @@ See ```toxic_test.ipynb``` for usage.
 
 The model is trained on [jigsaw challenge data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) and provided for educational purposes
 
-***tensorfow-js CNN model.***
+***tensorfow-js CNN model in ```weights\tfjs\exported.***
 
 Converted from keras:
 ```tfjs.converters.save_keras_model(keras_model, "./path/")```
